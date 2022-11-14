@@ -1,4 +1,4 @@
-
+#Very cool
 func main()
     l = "hello"
     l += "Hello"
